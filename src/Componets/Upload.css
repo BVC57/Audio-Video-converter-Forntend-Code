@@ -1,0 +1,52 @@
+.row{
+  width: 600px;
+  display: flex;
+
+}
+.row input[type="file"]{
+  width: 350px;
+  padding: 8px;
+  background-color: white;
+}
+
+.sellan.css-b62m3t-container{
+  margin-left: 30px;
+}
+
+.row1 input[type="button"]{
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.row1 input[type="button"]:hover {
+  background-color: #0056b3;
+}
+
+#fileName{
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+}
+#fileSize{
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+}
+#fileSize{
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+}
+/* #progressNumber{
+  border: 1px solid black;
+  height: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+} */
